@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Lab.Console
+namespace Lab.ConsoleApp
 {
     class Program
     {
